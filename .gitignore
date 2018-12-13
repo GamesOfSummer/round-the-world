@@ -31,3 +31,8 @@ ExportedObj/
 *.exe
 .vs/
 Assets/StreamingAssets/SaveFile.txt
+round-the-world/Library/
+round-the-world/ProjectSettings/
+round-the-world/Temp/UnityLockfile
+round-the-world/Temp/UnityTempFile-048325b31fbbbb84ab9f8396b75262ac
+round-the-world/Temp/
